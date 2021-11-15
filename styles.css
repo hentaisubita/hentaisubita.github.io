@@ -1,0 +1,28 @@
+body {
+    min-height: 100vh;
+    max-width: 1200px;
+    background-color: cornsilk; 
+    margin: 0 auto;
+}
+h1 { font-family: Roboto, Segoe UI, Frutiger, Frutiger Linotype, Dejavu Sans, Helvetica Neue, Arial, sans-serif; font-size: 26px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; text-transform: uppercase;} h2 { font-family: Roboto, Segoe UI, Frutiger, Frutiger Linotype, Dejavu Sans, Helvetica Neue, Arial, sans-serif; font-size: 26px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; text-transform: uppercase;} h3 { font-family: Roboto, Segoe UI, Frutiger, Frutiger Linotype, Dejavu Sans, Helvetica Neue, Arial, sans-serif; font-size: 26px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; text-transform: uppercase;} p { font-family: Roboto, Segoe UI, Frutiger, Frutiger Linotype, Dejavu Sans, Helvetica Neue, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 20px; } blockquote { font-family: Segoe UI, Frutiger, Frutiger Linotype, Dejavu Sans, Helvetica Neue, Arial, sans-serif; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 30px; } pre { font-family: Segoe UI, Frutiger, Frutiger Linotype, Dejavu Sans, Helvetica Neue, Arial, sans-serif; font-size: 13px; font-style: normal; font-variant: normal; font-weight: 400; line-height: 18.5667px; }
+a:link, {
+  color: #000000;
+  text-decoration: underline;
+  }
+a:visited {
+  color: #000000;
+}
+a:hover {
+  color: #000000;
+  text-decoration: none;
+  }
+a:active {
+  color: #000000;
+}
+img {
+    padding: 0;
+    display: block;
+    margin: 0 auto;
+    max-height: 100%;
+    max-width: 628px;
+}
